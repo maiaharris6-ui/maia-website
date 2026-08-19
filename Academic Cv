@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>cv</title>
+
+    <link rel="icon" type="image/png" href="icon.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="cv-page">
+
+    <h1>academic cv</h1>
+
+    <nav class="cv-nav">
+        <a href="index.html">← homesick. take me back.</a>
+    </nav>
+
+
+    <main class="cv">
+
+        <!-- ABOUT -->
+
+        <section class="cv-section">
+            <h2>education</h2>
+
+            <div class="cv-entry">
+                <h3>University Name</h3>
+                <p class="cv-date">2024–2026</p>
+                <p>Master of Arts in English</p>
+                <p>Thesis: <em>Title of Your Thesis</em></p>
+            </div>
+
+            <div class="cv-entry">
+                <h3>University Name</h3>
+                <p class="cv-date">2020–2024</p>
+                <p>Bachelor of Arts in English</p>
+                <p>Minor: Something</p>
+            </div>
+        </section>
+
+
+        <!-- RESEARCH -->
+
+        <section class="cv-section">
+            <h2>research interests</h2>
+
+            <p>
+                Contemporary literature; poetry; literary studies;
+                sound studies; popular culture; archival studies;
+                whatever your actual research interests are.
+            </p>
+        </section>
+
+
+        <!-- PUBLICATIONS -->
+
+        <section class="cv-section">
+            <h2>publications</h2>
+
+            <div class="cv-entry">
+                <p>
+                    <strong>Your Name.</strong>
+                    "Title of Article."
+                    <em>Journal Name</em>, vol. 00, no. 0, 2026.
+                </p>
+            </div>
+
+            <div class="cv-entry">
+                <p>
+                    <strong>Your Name.</strong>
+                    "Another Publication."
+                    <em>Literary Magazine</em>, 2025.
+                </p>
+            </div>
+        </section>
+
+
+        <!-- PRESENTATIONS -->
+
+        <section class="cv-section">
+            <h2>conference presentations</h2>
+
+            <div class="cv-entry">
+                <p>
+                    <strong>"Title of Presentation."</strong>
+                    Conference Name, University Name,
+                    City, Province, 2026.
+                </p>
+            </div>
+
+            <div class="cv-entry">
+                <p>
+                    <strong>"Another Presentation."</strong>
+                    Conference Name, 2025.
+                </p>
+            </div>
+        </section>
+
+
+        <!-- TEACHING -->
+
+        <section class="cv-section">
+            <h2>teaching</h2>
+
+            <div class="cv-entry">
+                <h3>University Name</h3>
+                <p class="cv-date">2025–2026</p>
+                <p>Teaching Assistant — Course Name</p>
+            </div>
+        </section>
+
+
+        <!-- AWARDS -->
+
+        <section class="cv-section">
+            <h2>awards &amp; scholarships</h2>
+
+            <ul>
+                <li>Scholarship Name — 2026</li>
+                <li>Award Name — 2025</li>
+                <li>Another Scholarship — 2024</li>
+            </ul>
+        </section>
+
+
+        <!-- SERVICE -->
+
+        <section class="cv-section">
+            <h2>academic service</h2>
+
+            <div class="cv-entry">
+                <p>
+                    Position or activity, Organization, 2025–2026.
+                </p>
+            </div>
+        </section>
+
+
+        <!-- PROFESSIONAL -->
+
+        <section class="cv-section">
+            <h2>professional experience</h2>
+
+            <div class="cv-entry">
+                <h3>Organization / Publication / Institution</h3>
+                <p class="cv-date">2024–present</p>
+                <p>Position / role</p>
+            </div>
+        </section>
+
+
+        <!-- OTHER PUBLICATIONS -->
+
+        <section class="cv-section">
+            <h2>creative work</h2>
+
+            <div class="cv-entry">
+                <p>
+                    "Title of Creative Work."
+                    <em>Publication / Magazine</em>, 2026.
+                </p>
+            </div>
+        </section>
+
+
+        <!-- CONTACT -->
+
+        <section class="cv-section">
+            <h2>contact</h2>
+
+            <p>
+                yourname@email.com
+            </p>
+
+            <p>
+                <a href="https://www.linkedin.com/">
+                    LinkedIn
+                </a>
+            </p>
+
+        </section>
+
+    </main>
+
+</body>
+</html>
